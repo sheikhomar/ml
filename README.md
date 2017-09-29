@@ -18,10 +18,10 @@ Supervised models are typically used to predict some target attrbute based on ob
 - [Logistic Regression](https://nbviewer.jupyter.org/github/sheikhomar/ml/blob/master/logistic-regression.ipynb)
 - [k-Nearest Neighbours (kNN)](https://nbviewer.jupyter.org/github/sheikhomar/ml/blob/master/k-nearest-neighbours.ipynb)
 - [Decision Trees and Random Forests](https://nbviewer.jupyter.org/github/sheikhomar/ml/blob/master/tree-based-methods.ipynb)
+- [Support Vector Machines](https://nbviewer.jupyter.org/github/sheikhomar/ml/blob/master/support-vector-machines.ipynb)
 
 ### Unsupervised models
-For descriptive tasks where do not have a designated target attribute, we can use unsupervised models. Instead of predicting something, our goal is to learn from the data and the
-process that generated the data. Our task is to identify coherent subgroups in the data.
+For descriptive tasks where do not have a designated target attribute, we can use unsupervised models. Instead of predicting something, our goal is to learn from the data and the process that generated the data. Our task is to identify coherent subgroups in the data.
 
 - k-Means
 - Hierarchical Clustering
